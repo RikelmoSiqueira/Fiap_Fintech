@@ -1,0 +1,40 @@
+.my-font {
+    font-family: "Poppins", sans-serif;
+}
+#portal{
+    list-style: none;
+    background-color: rgb(12, 12, 12);
+    padding: 0;
+}
+#portal li{
+    display: inline;
+}
+
+#portal li a {
+    color: rgb(255, 254, 254);
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px;
+}
+
+#portal li a:hover{
+    background-color: aqua;
+}
+
+img {
+    width: 80%;
+}
+
+
+h2 {
+    color: rgb(119, 115, 115);
+}
+
+container flaco {
+    display: flex;
+}
+
+ul {
+    list-style: none;
+    display: inline;
+}
